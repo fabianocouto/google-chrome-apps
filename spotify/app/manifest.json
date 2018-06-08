@@ -1,6 +1,6 @@
 {
-    "name": "Spotfy",
-    "description": "Open Spotfy Web",
+    "name": "Spotify",
+    "description": "Open Spotify Web",
     "version": "0.1",
     "manifest_version": 2,
     "app": {
