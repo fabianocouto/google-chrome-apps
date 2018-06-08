@@ -1,0 +1,16 @@
+{
+    "name": "Messenger",
+    "description": "Open Facebook Messenger Web",
+    "version": "0.1",
+    "manifest_version": 2,
+    "app": {
+        "background": {
+            "scripts": ["background.js"]
+        }
+    },
+    "icons": {
+        "16": "icon/source/favicon-16x16.png",
+        "128": "icon/source/ms-icon-144x144.png"
+    },
+    "permissions": ["webview","*://*.messenger.com/*","notifications"]
+}
