@@ -1,6 +1,6 @@
 {
-    "name": "Messenger",
-    "description": "Open Facebook Messenger Web",
+    "name": "Telegram",
+    "description": "Open Telegram Web",
     "version": "0.1",
     "manifest_version": 2,
     "app": {
@@ -12,5 +12,5 @@
         "16": "icon/icon-16x16.png",
         "128": "icon/icon-144x144.png"
     },
-    "permissions": ["webview","*://*.messenger.com/*","notifications"]
+    "permissions": ["webview","*://*.telegram.org/*","notifications"]
 }

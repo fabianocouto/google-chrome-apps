@@ -9,8 +9,8 @@
         }
     },
     "icons": {
-        "16": "icon/source/favicon-16x16.png",
-        "128": "icon/source/ms-icon-144x144.png"
+        "16": "icon/icon-16x16.png",
+        "128": "icon/icon-144x144.png"
     },
     "permissions": ["webview","*://*.whatsapp.com/*","notifications"]
 }
